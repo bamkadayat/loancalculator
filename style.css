@@ -1,0 +1,16 @@
+.box{
+    background: #E0DFE8;
+    padding: 5px;
+    width: 8%;
+}
+.box-m{
+    background:#E0DFE8;
+    padding:5px;
+}
+#loading, #results{
+    display:none;
+    overflow: hidden;
+}
+.mt-5{
+    margin-top: 5rem!important;
+}
